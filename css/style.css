@@ -339,3 +339,16 @@ button:hover{
     font-weight:bold;
 }
 
+.recepcion{
+    padding:80px 20px;
+    background:white;
+    text-align:center;
+}
+
+.recepcion h2{
+    font-family:'Cormorant Garamond', serif;
+    font-size:3rem;
+    color:#c48a9b;
+    margin-bottom:30px;
+}
+
