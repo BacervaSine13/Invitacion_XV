@@ -155,3 +155,187 @@ button:hover{
     }
 
 }
+
+.countdown{
+    padding:80px 20px;
+    background:#fff;
+    text-align:center;
+}
+
+.countdown h2{
+    font-family:'Cormorant Garamond', serif;
+    font-size:3rem;
+    color:#c48a9b;
+    margin-bottom:40px;
+}
+
+.contador{
+    display:flex;
+    justify-content:center;
+    gap:15px;
+    flex-wrap:wrap;
+}
+
+.tiempo{
+    width:80px;
+    height:80px;
+    border-radius:20px;
+    background:#f5e8ed;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+
+.tiempo span{
+    font-size:1.8rem;
+    font-weight:bold;
+    color:#b87a89;
+}
+
+.tiempo p{
+    font-size:.8rem;
+}
+
+.presentacion{
+    padding:80px 30px;
+    text-align:center;
+    background:#faf7f8;
+}
+
+.presentacion h2{
+    font-family:'Cormorant Garamond', serif;
+    font-size:3rem;
+    color:#c48a9b;
+    margin-bottom:25px;
+}
+
+.presentacion p{
+    line-height:2;
+    color:#444;
+    max-width:500px;
+    margin:auto;
+}
+
+.foto-monse{
+    padding:40px 20px;
+    background:#faf7f8;
+    text-align:center;
+}
+
+.foto-parroquia,
+.foto-monse img{
+    width:100%;
+    max-width:350px;
+    border-radius:20px;
+    box-shadow:0 10px 30px rgba(0,0,0,.15);
+}
+
+.evento{
+    padding:80px 20px;
+    background:white;
+    text-align:center;
+}
+
+.evento h2{
+    font-family:'Cormorant Garamond', serif;
+    font-size:3rem;
+    color:#c48a9b;
+    margin-bottom:35px;
+}
+
+.card-evento{
+    max-width:350px;
+    margin:auto;
+    background:#f8f0f3;
+    padding:30px;
+    border-radius:25px;
+    box-shadow:0 5px 20px rgba(0,0,0,.08);
+}
+
+.card-evento h3{
+    color:#b87a89;
+    margin-bottom:15px;
+    font-size:1.8rem;
+}
+
+.card-evento p{
+    line-height:1.8;
+}
+
+.ceremonia{
+    padding:80px 20px;
+    background:#faf7f8;
+    text-align:center;
+}
+
+.ceremonia h2{
+    font-family:'Cormorant Garamond', serif;
+    font-size:3rem;
+    color:#c48a9b;
+    margin-bottom:30px;
+}
+
+.card{
+    background:white;
+    border-radius:25px;
+    padding:30px;
+    max-width:350px;
+    margin:auto;
+    box-shadow:0 5px 25px rgba(0,0,0,.08);
+}
+
+.icono{
+    font-size:3rem;
+    margin-bottom:15px;
+}
+
+.card h3{
+    color:#b87a89;
+    margin-bottom:10px;
+}
+
+.btn-mapa{
+    display:inline-block;
+    margin-top:20px;
+    padding:12px 25px;
+    background:#c48a9b;
+    color:white;
+    text-decoration:none;
+    border-radius:30px;
+}
+
+.dress-code{
+    padding:80px 20px;
+    text-align:center;
+    background:#faf7f8;
+}
+
+.dress-card{
+    max-width:350px;
+    margin:auto;
+    background:white;
+    padding:30px;
+    border-radius:25px;
+    box-shadow:0 5px 20px rgba(0,0,0,.08);
+}
+
+.dress-card span{
+    font-size:3rem;
+}
+
+.confirmacion{
+    padding:80px 20px;
+    text-align:center;
+}
+
+.btn-whatsapp{
+    display:inline-block;
+    background:#25D366;
+    color:white;
+    text-decoration:none;
+    padding:18px 30px;
+    border-radius:35px;
+    font-weight:bold;
+}
+
